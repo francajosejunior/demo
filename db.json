@@ -10,5 +10,17 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "v1": {
+    "user": {
+      "cpf": [
+        {
+          "id": 46777440330,
+          "Body": { "getCertifiedStatusByCPFResponse": { "status": "S" } }
+        }
+      ]
+    }
   }
 }
+
+// {"Body": {"getCertifiedStatusByCPFResponse": {"status": "S"}}}
